@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">github0860</string>
+    <string name="Search">Pencarian</string>
+    <string name="Followers">Pengikut</string>
+    <string name="Following">Mengikuti</string>
+    <string name="tab_1">Pengikut</string>
+    <string name="tab_2">Mengikuti</string>
+</resources>
